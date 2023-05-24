@@ -1,0 +1,11 @@
+{
+  "name": "battery",
+  "version": "1.0.0",
+  "description": "Team application to gauge emotional battery charge levels",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Mark Duarte",
+  "license": "ISC"
+}
